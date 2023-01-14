@@ -1,5 +1,5 @@
 # Google-Colab-Notes
-A list of resources on how to best use this wonderful free resource.
+*A list of resources on how to best use this wonderful free resource. Plus some other alternatives.*
 ***
 
 ## What is it?
@@ -18,5 +18,13 @@ A list of resources on how to best use this wonderful free resource.
 - How to write back to those data sources from within Colab
 - Limitations of Google Colab while working with external files
 - https://neptune.ai/blog/google-colab-dealing-with-files
+***
+
+## Alternatives
+- All the two alternative to [Google Colab](https://colab.research.google.com/) offer some free GPU time.
+  - [AWS SageMaker Studio Lab](https://aws.amazon.com/sagemaker/studio-lab/)
+  - [Gradient notebooks](https://www.paperspace.com/gradient/notebooks)
+- [SageMaker Studio Lab vs Google Colab](https://blog.roboflow.com/sagemaker-studio-lab-vs-google-colab/)
+- [Comparing Google's Jupyter Notebooks to Gradient Notebooks](https://blog.paperspace.com/alternative-to-google-colab-pro/)
 ***
 
